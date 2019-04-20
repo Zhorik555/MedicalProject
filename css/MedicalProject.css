@@ -1,0 +1,155 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-position: center;
+	width: 100%; 
+	height: 800px;
+	background-size: cover;
+}
+.menu{
+	background: rgba(255,255,255,0.7);
+	padding-top: 4px;
+	padding-bottom: 4px;
+	height: 60px;
+}
+.menu-list{
+	display: inline-block;
+}
+.menu-link{
+	text-decoration: none;
+	color: black;
+	margin-right: 10px;
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 15px;
+}
+.menu-table{
+	width: 900px;
+	display: inline-block;
+}
+.menu-link-first{
+	display: inline-block;
+	margin-right: 70px;
+	font-size: 22px;
+}
+.menu-link-first:first-letter {
+	color: #6bc2f1;
+}
+.header-btn{
+	background-color: #6bc2f1;
+	color: #fff;
+	border: 0;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.header-title{
+	color: #fff;
+	font-size: 60px;
+	margin-top: 350px;
+	padding-left: 50px;
+}
+.title{
+	font-size: 28px;
+	margin-top: 5px;
+}
+.subtitle{
+	font-size: 17px;
+	margin-top: 40px;
+}
+.header-btn2{
+	background-color: #fff;
+	color: #000000;
+	border: 0;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.about-us-text{
+	width: 50%;
+	float: left;
+	height: 342px;
+	color: #fff;
+	font-size: 20px;
+	color: black;
+	margin-top: 250px;
+	margin-left: 100px;
+}
+.old-doctor-img{
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+.about-us-title{
+	color: #6bc2f1;
+}
+.about-us-subtitle{
+	font-size: 30px;
+	
+}
+.about-us-lorem{
+	font-size: 20px;
+}
+.about-us-btn{
+	padding-bottom: 13px; 
+	padding-top: 13px;
+	margin-top: 50px;
+	background-color: #6bc2f1;
+	border: 0;
+	color: #fff;
+
+}
+.more-about{
+	margin-top: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.learn-more{
+	width: 50%;
+	float: left;
+	height: 342px;
+	color: #fff;
+	font-size: 20px;
+}
+.professional-surgeons{
+	float: right;
+	height: 338px;
+	width: 50%;
+	background-color: #6bc2f1;
+	color: #fff;
+}
+.for-children{
+	margin-top: -3.9px;
+	float: left;
+	height: 329px;
+	width: 50%;
+	background-color: #6bc2f1;
+	color: #fff;
+}
+.two-children{
+	width: 50%;
+	float: right;
+}
+.services{
+
+}
+.services-item{
+	display: inline-block;
+}
+.portfolio{
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-bottom: 40px;
+	margin-top: 50px;
+	box-sizing: border-box;
+}
+.portfolio-image{
+	width: 30%;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 6px;
+	padding-bottom: 6px;	
+}
